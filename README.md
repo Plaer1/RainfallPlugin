@@ -10,6 +10,7 @@ A BetterDiscord plugin that adds a rain effect to your Discord client.
     - Go to the "Plugins" tab under "BetterDiscord"
     - Click the "Open Plugins Folder" button
 4. Go back to the "Plugins" tab in your Discord settings and enable the "Rainfall" plugin.
+
 (alternatively you can install the fantastic [Plugin Repo](https://github.com/mwittrien/BetterDiscordAddons/tree/master/Plugins/PluginRepo/) by DevilBro, and hopefully it'll show up there soon!)
 
 ## Usage
